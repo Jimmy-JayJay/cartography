@@ -2,6 +2,9 @@
 
 This repository contains **cartographic maps** created using GIS tools. Each map visualizes geospatial data for analysis, planning, and decision-making purposes.
 
+<img align = 'left' src="1. WaterShed Delineation - Dzaleka.png" alt="Watershed Delineation - Dzaleka" height="300">
+
+<img align = 'right' src="2. Topographic Map - Malawi.png" alt="Elevation Map of Malawi" height="300">
 ---
 
 ## Table of Contents
