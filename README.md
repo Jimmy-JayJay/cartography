@@ -27,9 +27,10 @@ All maps are created with attention to **accuracy, clarity, and presentation**.
 ## Maps
 | Map Name | Description | File Type |
 |----------|-------------|-----------|
-| Watershed Delineation | Shows Dzaleka watershed areas using DEM  | PNG |
-| Land Use Map | Land cover classification of Blantyre | PNG  |
-| Topographic Map | Elevation and terrain visualization of Malawi | PNG |
+| 1. Watershed Delineation | Shows Dzaleka watershed areas using DEM  | PNG |
+| 2. Topographic Map | Elevation and terrain visualization of Malawi | PNG |
+| 3. Land Use Map | Land cover classification of Blantyre | PNG  |
+
 
 ---
 
