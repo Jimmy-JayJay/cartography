@@ -27,7 +27,7 @@ All maps are created with attention to **accuracy, clarity, and presentation**.
 |----------|-------------|-----------|
 | 1. Watershed Delineation - Dzaleka| Shows watershed areas around Dzaleka refugee camp using DEM  | PNG |
 | 2. Topographic Map | Elevation and terrain visualization of Malawi | PNG |
-| 4. Vegitiation Height Analysis | Height analysis of crop field data from drone imagery | PNG  |
+| 3. Vegitiation Height Analysis | Height analysis of crop field data from drone imagery | PNG  |
 
 
 ---
