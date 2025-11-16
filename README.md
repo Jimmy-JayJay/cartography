@@ -42,4 +42,4 @@ All maps are created with attention to **accuracy, clarity, and presentation**.
 You can download the maps directly from this repository, or clone the repo:
 
 ```bash
-git clone https://github.com/yourusername/cartography-maps.git
+git clone https://github.com/Jimmy-JayJay/cartography-maps.git
