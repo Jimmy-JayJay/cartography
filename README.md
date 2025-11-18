@@ -7,7 +7,6 @@ This repository contains **cartographic maps** created using GIS tools. Each map
 - [Maps](#maps)
 - [Tools](#tools)
 - [Getting the Maps](#getting-the-maps)
-- [Contact](#contact)
 
 ---
 
